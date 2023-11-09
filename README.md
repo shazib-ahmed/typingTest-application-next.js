@@ -1,1 +1,1 @@
-![demo](https://shazib-typingTest.varcel.com)
+![demo](https://shazib-typingTest.vercel.app)
